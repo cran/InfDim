@@ -1,0 +1,15 @@
+780f6e197d6b5a61809cac1b33a0cf1c *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+df4c807741ac3047d0483cc527a1003a *R/IDM.R
+606063ab6dd18923c5389abc0b4e05e1 *R/IDM.bootCI.R
+35dbc93733bff87a2cf927db7bbd7d62 *R/adjust.R
+24dd8fadd9c05fd289a3508cbd1957b4 *R/p.function.R
+cd345bae6c060cac012c0a9e8ca465d6 *R/psii.R
+f89d0802f342a355d4632ad4ead2022e *data/fish.txt
+8f48d2cb6772b8cd9c0100b1089cfe16 *man/IDM.Rd
+38152b9895d71a2505ef23790153e20d *man/IDM.bootCI.Rd
+caf3a3a0bc97aa06666036ca8fb39eed *man/InfDim-package.Rd
+b52c984d8f338e527034c05096a4bbe6 *man/adjust.Rd
+4111ce1f66a27aa05a4ab6bba408b0b0 *man/fish.Rd
+ec92d637b39d0c1a617fd36cb487f7e2 *man/p.function.Rd
+18a0127478a20eb212e6e84bf126f1f4 *man/psii.Rd
